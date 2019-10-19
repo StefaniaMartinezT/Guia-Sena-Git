@@ -16,19 +16,11 @@ h1{
 }
 
 
-.parrafo1{
-    
-    font-size: 20px;
-    font-weight: normal;
-    background-color: #89B9BD;
-    padding: 10px;
-    color: #061522;
- 
-}
+
 
 .titulo1{
     background-color:#89B9BD;
-    color: rgba(13, 77, 45, 0.842);
+    color:#153958;
     font-size: 40px;
     font-weight: normal;
     padding: 20px;
@@ -39,7 +31,7 @@ h1{
 .section1{
     
     background-color: #89B9BD;
-    height: 200px;
+    height: 350px;
    
 }
 
@@ -52,11 +44,31 @@ h1{
     
 }
 
+p{
+    
+    font-size: 20px;
+    font-weight: normal;
+    background-color: #89B9BD;
+    padding: 10px;
+    color: #061522;
+    
+ 
+}
+
+
+
 code{
     background-color: rgb(49, 116, 112);
     font-style: normal;
     border-radius: 10px;
     color: white;
-    padding: 5px 15px;
+    padding: 5px 15px 10px 10px ;
+    margin: 10px;
     font-family: menlo, monospace;
+}
+
+.section2{
+    background-color: #E499EF;
+    height: 300px;
+
 }
