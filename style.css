@@ -9,7 +9,7 @@
 h1{
     
     color: rgb(6, 66, 90);
-    font-size: 40px;
+    font-size: 70px;
     font-weight: normal;
     
   
@@ -19,8 +19,8 @@ h1{
 
 
 .titulo1{
-    background-color:#89B9BD;
-    color:#153958;
+    background-color:rgb(58, 80, 82);
+    color:#fffbff;
     font-size: 40px;
     font-weight: normal;
     padding: 20px;
@@ -30,15 +30,15 @@ h1{
 
 .section1{
     
-    background-color: #89B9BD;
+    background-color: rgb(58, 80, 82);
     height: 350px;
    
 }
 
 .titulo2{
-    background-color:#89B9BD;
+    background-color:rgb(58, 80, 82);
     padding: 20px;
-    color:#283278;
+    color:#fffbff;
     font-size: 40px;
     font-weight: normal;
     
@@ -48,9 +48,9 @@ p{
     
     font-size: 20px;
     font-weight: normal;
-    background-color: #89B9BD;
+    background-color: rgb(58, 80, 82);
     padding: 10px;
-    color: #061522;
+    color: #fffbff;
     
  
 }
@@ -68,31 +68,31 @@ code{
 }
 
 .section2{
-    background-color: rgb(144, 219, 121);
+    background-color: rgb(194, 104, 20);
     height: 350px;
 
 }
 
 .titulo3{
-    background-color: rgb(144, 219, 121);
+    background-color: rgb(194, 104, 20);
     padding: 20px;
-    color:#B3281F;
+    color: #fffbff;
     font-size: 40px;
     font-weight: normal;
 }
 
 .parrafo5{
-    background-color: rgb(144, 219, 121);
+    background-color:rgb(194, 104, 20);
 }
 
 .parrafo6{
-    background-color: rgb(144, 219, 121);
+    background-color:rgb(194, 104, 20);
 }
 .parrafo7{
-    background-color: rgb(144, 219, 121);
+    background-color:rgb(194, 104, 20);
 }
 .parrafo8{
-    background-color: rgb(144, 219, 121);
+    background-color:rgb(194, 104, 20);
 }
 
 .code1{
@@ -113,7 +113,7 @@ code{
 
 .section3{
     background-color: #134167;
-    height: 150px;
+    height: 250px;
 }
 
 .titulo4{
@@ -137,7 +137,7 @@ code{
 
 .section4{
     background-color: #F47633;
-    height: 300px;
+    height: 350px;
 }
 
 .titulo5{
@@ -180,7 +180,7 @@ code{
 
 .section5{
     background-color: #cc4037;
-    height: 200px;
+    height: 250px;
 }
 
 .titulo6{
@@ -207,4 +207,76 @@ background-color: #ffc19f;
 .parrafo14{
     background-color: #cc4037;
     color: white;
+}
+
+.section6{
+    background-color: #126449;
+    height: 250px;
+
+}
+.titulo7{
+    background-color: #126449;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+
+}
+.code11{
+    background-color: #936db6;
+}
+
+.parrafo15{
+    background-color: #126449;
+    color: white;
+}
+
+.section7{
+    height:350px;
+    background-color: #4c0d09;
+}
+
+.titulo8{
+    padding: 10px;
+    background-color: #4c0d09;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    
+}
+
+.code12{
+    background-color: tomato;
+    color: white;
+}
+
+.parrafo16{
+    background-color: #4c0d09;
+    color: white;
+    height: 150px;
+}
+
+.section8{
+    height: 250px;
+    background-color: peru;
+}
+
+.titulo9{
+    background-color: peru;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.code13{
+    background-color: rgb(139, 187, 108);
+    color: white;
+}
+
+.parrafo17{
+    background-color: peru;
+    color: white;
+
 }
